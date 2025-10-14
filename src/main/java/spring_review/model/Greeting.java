@@ -1,5 +1,3 @@
 package spring_review.model;
 
-public record Gretting(long id, String content) {
-    
-}
+public record Greeting(long id, String content) {}
